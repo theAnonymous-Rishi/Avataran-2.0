@@ -1,0 +1,13 @@
+
+
+.box .image .fit  {
+    display: block;
+    margin-left: 40%;
+    margin-right: auto;
+    width: 30%;
+
+}
+.content p {
+font-family: "Poppins", sans-serif;
+padding-left: 40%;
+}
