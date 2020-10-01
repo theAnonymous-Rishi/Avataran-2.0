@@ -1,5 +1,5 @@
 .box .image_fit1 img{
-    display: block;
+    display: center;
     margin-left: 30%;
     margin-right: auto;
     width: 40%;
@@ -7,7 +7,7 @@
    
 }
 .content p {
-font-family: "Poppins", sans-serif;
+font-family: "Monospace", sans-serif;
 padding-left: 40%;
 
 }
